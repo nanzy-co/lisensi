@@ -1,7 +1,7 @@
 [
     {
-        "CLIENT_ID": "pelerkuda",
-        "CREATION_DATE": "2025-11-01 10:00:00", 
-        "EXPIRY_DATE": 999999 
-    }    
+        "client_id": "pelerkuda",
+        "creation_date": "2025-11-01 10:00:00", 
+        "duration_days": 365 
+    }
 ]
