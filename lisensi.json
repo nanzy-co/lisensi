@@ -1,7 +1,7 @@
 [
     {
-        "client_id": "pelerkuda",
-        "creation_date": "2025-11-01 10:00:00", 
-        "duration_days": 999999 
+        "CLIENT_ID": "pelerkuda",
+        "CREATION_DATE": "2025-11-01 10:00:00", 
+        "DURATION_DAYS": 999999 
     }    
 ]
