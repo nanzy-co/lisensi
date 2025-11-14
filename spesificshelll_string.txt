@@ -1,0 +1,165 @@
+uname -a
+system(
+shell_exec
+symlink bypass
+passthru
+eval(
+base64_decode
+preg_replace
+assert(
+str_rot13
+gzinflate
+gzuncompress
+gzdecode
+str_replace
+chr(
+create_function
+exec(
+pcntl_exec
+popen(
+proc_open
+<form enctype="multipart/form-data"
+type="file"
+<input type="file"
+upload_max_filesize
+move_uploaded_file
+chdir(
+readdir(
+scandir(
+opendir(
+glob(
+file_get_contents
+file_put_contents
+fopen(
+fwrite(
+fread(
+unlink(
+rmdir(
+mkdir(
+chmod(
+touch(
+copy(
+rename(
+exec(
+cmd.exe
+/bin/bash
+/bin/sh
+/usr/bin/perl
+python -c
+ruby -e
+nc -e
+bash -i
+/dev/tcp/
+reverse shell
+bind shell
+mysql_connect
+mysqli_connect
+PDO(
+sqlite_open
+pg_connect
+mssql_connect
+oci_connect
+phpinfo()
+php_uname
+get_current_user
+posix_getuid
+posix_geteuid
+posix_getgid
+posix_getpwuid
+disable_functions
+safe_mode
+open_basedir
+ini_set
+ini_get
+ini_restore
+c99shell
+r57shell
+wso shell
+b374k
+indoxploit
+alfa shell
+priv8
+webadmin
+adminer
+phpspy
+# Fitur obfuscation
+base64_encode
+hex2bin
+bin2hex
+fromCharCode
+String.fromCharCode
+\x
+\u00
+fsockopen(
+curl_exec
+file_get_contents
+LFI
+RFI
+SQLi
+XSS
+CSRF
+<title>Shell</title>
+<title>WSO</title>
+<title>C99</title>
+<title>b374k</title>
+<title>IndoXploit</title>
+<title>Alfa</title>
+<title>Mini Shell</title>
+<title>Bypass</title>
+<title>Uploader</title>
+<select name="act"
+<select name="action"
+<select name="mode"
+<select name="charset"
+<option value="system"
+<option value="exec"
+<option value="shell_exec"
+<option value="passthru"
+symlink(
+show_source
+highlight_file
+parse_ini_file
+parse_url
+include(
+require(
+include_once(
+require_once(
+    -rw-r--r--
+drwxr-xr-x
+drwx--x--x
+0444
+0755
+0644
+644
+755
+444
+type="files"
+<font class="solevisible-text" color="#0F0"> &amp; Invisible</font>
+type="file"
+Sole Sad Invisible
+tinyfilemanager
+h3k
+Invisible
+Onehat cyber am
+<input type="password" id="password" name="password" required="" data-sharkid="__0">
+one hat cyber team
+Sole Sad
+chmod
+<a href="?">Gel4y Mini Shell</a>
+type="folder"
+Gel4y
+<input type='hidden' name='alfa1' value='uploadFile'>
+Choose Files
+Choose file
+php file manager
+name="-upload"
+Gel4y Mini Shell
+gecko
+MadExploits
+Marijuana
+foxwso
+Black Eagle Team
+Mini Shell
+Shell
+<form action="" method="post" enctype="multipart/form-data" name="uploader" id="uploader"><input type="file" name="file"><input name="_upl" type="submit" id="_upl" value="Upload"></form>
+<input type="file" name="file">
